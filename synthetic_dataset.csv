@@ -1,0 +1,1001 @@
+Id,Time,Machine,Component,Parameter,Value
+1,01-05-2022 00:00,Dozer_1,Fuel,Fuel Pressure,137.51
+2,01-05-2022 00:10,Dozer_1,Drive,Pedal Sensor,22.21
+3,01-05-2022 00:20,Articulated_Truck_1,Engine,Oil Pressure,95.72
+4,01-05-2022 00:30,Backhoe_Loader_1,Misc,Exhaust Gas Temperature,1076.78
+5,01-05-2022 00:40,Excavator_1,Fuel,Fuel Pressure,146.02
+6,01-05-2022 00:50,Articulated_Truck_1,Drive,Brake Control,1.41
+7,01-05-2022 01:00,Articulated_Truck_1,Engine,Temperature,77.14
+8,01-05-2022 01:10,Articulated_Truck_1,Drive,Brake Control,2.67
+9,01-05-2022 01:20,Excavator_1,Engine,Oil Pressure,23.0
+10,01-05-2022 01:30,Dozer_1,Misc,Hydraulic Pump Rate,312.5
+11,01-05-2022 01:40,Backhoe_Loader_1,Fuel,Fuel Level,0.64
+12,01-05-2022 01:50,Backhoe_Loader_1,Fuel,Fuel Level,0.74
+13,01-05-2022 02:00,Articulated_Truck_1,Engine,Temperature,30.75
+14,01-05-2022 02:10,Backhoe_Loader_1,Misc,Air Filter Pressure,28.22
+15,01-05-2022 02:20,Backhoe_Loader_1,Fuel,Fuel Level,3.04
+16,01-05-2022 02:30,Backhoe_Loader_1,Misc,Exhaust Gas Temperature,1921.14
+17,01-05-2022 02:40,Articulated_Truck_1,Misc,Exhaust Gas Temperature,1249.14
+18,01-05-2022 02:50,Articulated_Truck_1,Engine,Temperature,319.87
+19,01-05-2022 03:00,Backhoe_Loader_1,Fuel,Fuel Pressure,66.85
+20,01-05-2022 03:10,Dozer_1,Fuel,Fuel Pressure,147.96
+21,01-05-2022 03:20,Backhoe_Loader_1,Engine,Speed,3453.69
+22,01-05-2022 03:30,Backhoe_Loader_1,Drive,Pedal Sensor,20.86
+23,01-05-2022 03:40,Articulated_Truck_1,Fuel,Fuel Pressure,199.31
+24,01-05-2022 03:50,Backhoe_Loader_1,Drive,Pedal Sensor,10.18
+25,01-05-2022 04:00,Excavator_1,Engine,Speed,1717.98
+26,01-05-2022 04:10,Articulated_Truck_1,Engine,Speed,5290.82
+27,01-05-2022 04:20,Articulated_Truck_1,Drive,Transmission Pressure,453.0
+28,01-05-2022 04:30,Dozer_1,Misc,Air Filter Pressure,39.74
+29,01-05-2022 04:40,Dozer_1,Drive,Transmission Pressure,1091.82
+30,01-05-2022 04:50,Dozer_1,Engine,Speed,4073.12
+31,01-05-2022 05:00,Excavator_1,Misc,Hydraulic Pump Rate,231.56
+32,01-05-2022 05:10,Dozer_1,Fuel,Water in Fuel,5044.43
+33,01-05-2022 05:20,Articulated_Truck_1,Engine,Speed,1610.35
+34,01-05-2022 05:30,Articulated_Truck_1,Drive,Transmission Pressure,309.44
+35,01-05-2022 05:40,Dozer_1,Fuel,Fuel Level,0.53
+36,01-05-2022 05:50,Backhoe_Loader_1,Misc,Air Filter Pressure,38.07
+37,01-05-2022 06:00,Articulated_Truck_1,Engine,Oil Pressure,128.65
+38,01-05-2022 06:10,Excavator_1,Fuel,Fuel Level,4.35
+39,01-05-2022 06:20,Excavator_1,Misc,Exhaust Gas Temperature,751.47
+40,01-05-2022 06:30,Backhoe_Loader_1,Misc,Air Filter Pressure,30.39
+41,01-05-2022 06:40,Backhoe_Loader_1,Misc,Air Filter Pressure,0.43
+42,01-05-2022 06:50,Articulated_Truck_1,Fuel,Temperature,408.21
+43,01-05-2022 07:00,Dozer_1,Fuel,Temperature,199.2
+44,01-05-2022 07:10,Dozer_1,Fuel,Water in Fuel,1994.85
+45,01-05-2022 07:20,Excavator_1,Fuel,Temperature,756.03
+46,01-05-2022 07:30,Dozer_1,Engine,Temperature,405.33
+47,01-05-2022 07:40,Dozer_1,Misc,Exhaust Gas Temperature,1456.86
+48,01-05-2022 07:50,Dozer_1,Fuel,Temperature,150.82
+49,01-05-2022 08:00,Articulated_Truck_1,Engine,Speed,4127.84
+50,01-05-2022 08:10,Articulated_Truck_1,Misc,Hydraulic Pump Rate,393.37
+51,01-05-2022 08:20,Backhoe_Loader_1,Fuel,Temperature,254.33
+52,01-05-2022 08:30,Excavator_1,Engine,Oil Pressure,29.44
+53,01-05-2022 08:40,Excavator_1,Engine,Speed,2067.42
+54,01-05-2022 08:50,Articulated_Truck_1,Engine,Speed,2877.94
+55,01-05-2022 09:00,Excavator_1,Engine,Oil Pressure,36.64
+56,01-05-2022 09:10,Articulated_Truck_1,Engine,Oil Pressure,124.37
+57,01-05-2022 09:20,Backhoe_Loader_1,Engine,Oil Pressure,87.21
+58,01-05-2022 09:30,Excavator_1,Engine,Oil Pressure,38.07
+59,01-05-2022 09:40,Excavator_1,Fuel,Fuel Level,0.51
+60,01-05-2022 09:50,Articulated_Truck_1,Misc,Exhaust Gas Temperature,1832.12
+61,01-05-2022 10:00,Articulated_Truck_1,Engine,Oil Pressure,77.38
+62,01-05-2022 10:10,Excavator_1,Engine,Temperature,207.35
+63,01-05-2022 10:20,Articulated_Truck_1,Drive,Transmission Pressure,1971.21
+64,01-05-2022 10:30,Dozer_1,Fuel,Fuel Level,2.66
+65,01-05-2022 10:40,Articulated_Truck_1,Engine,Speed,2973.53
+66,01-05-2022 10:50,Dozer_1,Drive,Transmission Pressure,1202.28
+67,01-05-2022 11:00,Articulated_Truck_1,Misc,Air Filter Pressure,9.74
+68,01-05-2022 11:10,Excavator_1,Drive,Transmission Pressure,186.7
+69,01-05-2022 11:20,Backhoe_Loader_1,Engine,Speed,3466.55
+70,01-05-2022 11:30,Backhoe_Loader_1,Misc,Air Filter Pressure,36.0
+71,01-05-2022 11:40,Articulated_Truck_1,Fuel,Fuel Pressure,180.0
+72,01-05-2022 11:50,Dozer_1,Fuel,Fuel Level,3.84
+73,01-05-2022 12:00,Backhoe_Loader_1,Fuel,Temperature,58.34
+74,01-05-2022 12:10,Backhoe_Loader_1,Engine,Speed,1890.48
+75,01-05-2022 12:20,Excavator_1,Fuel,Water in Fuel,2074.45
+76,01-05-2022 12:30,Dozer_1,Engine,Temperature,733.65
+77,01-05-2022 12:40,Backhoe_Loader_1,Fuel,Water in Fuel,437.06
+78,01-05-2022 12:50,Articulated_Truck_1,Misc,Hydraulic Pump Rate,162.84
+79,01-05-2022 13:00,Articulated_Truck_1,Engine,Temperature,790.73
+80,01-05-2022 13:10,Excavator_1,Drive,Pedal Sensor,6.05
+81,01-05-2022 13:20,Excavator_1,Drive,Pedal Sensor,27.38
+82,01-05-2022 13:30,Articulated_Truck_1,Fuel,Fuel Level,4.0
+83,01-05-2022 13:40,Dozer_1,Engine,Temperature,385.28
+84,01-05-2022 13:50,Articulated_Truck_1,Drive,Brake Control,1.98
+85,01-05-2022 14:00,Backhoe_Loader_1,Engine,Speed,4855.79
+86,01-05-2022 14:10,Articulated_Truck_1,Misc,Exhaust Gas Temperature,1914.61
+87,01-05-2022 14:20,Excavator_1,Fuel,Fuel Pressure,37.38
+88,01-05-2022 14:30,Dozer_1,Drive,Brake Control,2.68
+89,01-05-2022 14:40,Dozer_1,Fuel,Fuel Pressure,188.13
+90,01-05-2022 14:50,Excavator_1,Engine,Temperature,440.19
+91,01-05-2022 15:00,Excavator_1,Fuel,Water in Fuel,47.5
+92,01-05-2022 15:10,Backhoe_Loader_1,Fuel,Fuel Level,1.02
+93,01-05-2022 15:20,Backhoe_Loader_1,Fuel,Temperature,142.55
+94,01-05-2022 15:30,Excavator_1,Engine,Temperature,516.22
+95,01-05-2022 15:40,Excavator_1,Drive,Transmission Pressure,1947.24
+96,01-05-2022 15:50,Excavator_1,Misc,Hydraulic Pump Rate,281.26
+97,01-05-2022 16:00,Dozer_1,Engine,Speed,4510.21
+98,01-05-2022 16:10,Backhoe_Loader_1,Drive,Pedal Sensor,2.41
+99,01-05-2022 16:20,Articulated_Truck_1,Misc,System Voltage,69.56
+100,01-05-2022 16:30,Articulated_Truck_1,Fuel,Temperature,794.45
+101,01-05-2022 16:40,Excavator_1,Fuel,Temperature,635.42
+102,01-05-2022 16:50,Dozer_1,Engine,Speed,5801.06
+103,01-05-2022 17:00,Backhoe_Loader_1,Fuel,Fuel Pressure,96.99
+104,01-05-2022 17:10,Dozer_1,Fuel,Water in Fuel,2298.19
+105,01-05-2022 17:20,Dozer_1,Drive,Brake Control,1.42
+106,01-05-2022 17:30,Dozer_1,Misc,Hydraulic Pump Rate,448.37
+107,01-05-2022 17:40,Dozer_1,Engine,Oil Pressure,106.63
+108,01-05-2022 17:50,Backhoe_Loader_1,Fuel,Fuel Level,3.22
+109,01-05-2022 18:00,Excavator_1,Misc,Hydraulic Pump Rate,139.6
+110,01-05-2022 18:10,Dozer_1,Engine,Temperature,647.88
+111,01-05-2022 18:20,Dozer_1,Misc,Exhaust Gas Temperature,1469.73
+112,01-05-2022 18:30,Excavator_1,Drive,Transmission Pressure,674.44
+113,01-05-2022 18:40,Excavator_1,Misc,Air Filter Pressure,2.51
+114,01-05-2022 18:50,Backhoe_Loader_1,Engine,Speed,1682.17
+115,01-05-2022 19:00,Dozer_1,Fuel,Fuel Pressure,76.18
+116,01-05-2022 19:10,Articulated_Truck_1,Engine,Oil Pressure,57.03
+117,01-05-2022 19:20,Excavator_1,Engine,Temperature,163.99
+118,01-05-2022 19:30,Dozer_1,Drive,Brake Control,1.08
+119,01-05-2022 19:40,Backhoe_Loader_1,Engine,Temperature,454.68
+120,01-05-2022 19:50,Backhoe_Loader_1,Fuel,Water in Fuel,3013.0
+121,01-05-2022 20:00,Excavator_1,Misc,Hydraulic Pump Rate,145.52
+122,01-05-2022 20:10,Articulated_Truck_1,Engine,Temperature,641.49
+123,01-05-2022 20:20,Articulated_Truck_1,Engine,Temperature,131.62
+124,01-05-2022 20:30,Dozer_1,Engine,Oil Pressure,139.32
+125,01-05-2022 20:40,Backhoe_Loader_1,Engine,Temperature,636.63
+126,01-05-2022 20:50,Backhoe_Loader_1,Fuel,Temperature,464.28
+127,01-05-2022 21:00,Excavator_1,Engine,Temperature,349.15
+128,01-05-2022 21:10,Dozer_1,Misc,Air Filter Pressure,3.31
+129,01-05-2022 21:20,Articulated_Truck_1,Engine,Speed,1358.22
+130,01-05-2022 21:30,Excavator_1,Fuel,Water in Fuel,942.22
+131,01-05-2022 21:40,Dozer_1,Fuel,Fuel Pressure,42.38
+132,01-05-2022 21:50,Articulated_Truck_1,Misc,Air Filter Pressure,9.12
+133,01-05-2022 22:00,Dozer_1,Drive,Brake Control,2.66
+134,01-05-2022 22:10,Excavator_1,Engine,Temperature,764.73
+135,01-05-2022 22:20,Backhoe_Loader_1,Engine,Temperature,742.37
+136,01-05-2022 22:30,Excavator_1,Fuel,Fuel Level,3.66
+137,01-05-2022 22:40,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,201.87
+138,01-05-2022 22:50,Excavator_1,Drive,Pedal Sensor,15.81
+139,01-05-2022 23:00,Articulated_Truck_1,Engine,Temperature,263.04
+140,01-05-2022 23:10,Articulated_Truck_1,Engine,Temperature,306.78
+141,01-05-2022 23:20,Excavator_1,Drive,Brake Control,3.1
+142,01-05-2022 23:30,Articulated_Truck_1,Misc,Air Filter Pressure,7.96
+143,01-05-2022 23:40,Backhoe_Loader_1,Misc,Air Filter Pressure,30.38
+144,01-05-2022 23:50,Excavator_1,Engine,Speed,882.77
+145,02-05-2022 00:00,Excavator_1,Drive,Brake Control,2.09
+146,02-05-2022 00:10,Excavator_1,Drive,Brake Control,1.03
+147,02-05-2022 00:20,Backhoe_Loader_1,Misc,Air Filter Pressure,30.63
+148,02-05-2022 00:30,Backhoe_Loader_1,Engine,Temperature,686.13
+149,02-05-2022 00:40,Excavator_1,Fuel,Fuel Pressure,79.7
+150,02-05-2022 00:50,Backhoe_Loader_1,Drive,Transmission Pressure,1578.91
+151,02-05-2022 01:00,Backhoe_Loader_1,Engine,Temperature,337.39
+152,02-05-2022 01:10,Articulated_Truck_1,Misc,Exhaust Gas Temperature,586.53
+153,02-05-2022 01:20,Articulated_Truck_1,Drive,Brake Control,3.75
+154,02-05-2022 01:30,Backhoe_Loader_1,Drive,Pedal Sensor,8.09
+155,02-05-2022 01:40,Dozer_1,Fuel,Water in Fuel,2520.03
+156,02-05-2022 01:50,Excavator_1,Engine,Oil Pressure,39.2
+157,02-05-2022 02:00,Dozer_1,Drive,Brake Control,1.41
+158,02-05-2022 02:10,Dozer_1,Engine,Speed,2462.34
+159,02-05-2022 02:20,Articulated_Truck_1,Drive,Brake Control,1.97
+160,02-05-2022 02:30,Excavator_1,Drive,Transmission Pressure,113.37
+161,02-05-2022 02:40,Backhoe_Loader_1,Misc,Exhaust Gas Temperature,1228.17
+162,02-05-2022 02:50,Backhoe_Loader_1,Engine,Speed,5384.6
+163,02-05-2022 03:00,Backhoe_Loader_1,Drive,Transmission Pressure,120.67
+164,02-05-2022 03:10,Backhoe_Loader_1,Engine,Temperature,627.62
+165,02-05-2022 03:20,Backhoe_Loader_1,Engine,Speed,4299.76
+166,02-05-2022 03:30,Excavator_1,Misc,System Voltage,54.69
+167,02-05-2022 03:40,Backhoe_Loader_1,Drive,Pedal Sensor,20.16
+168,02-05-2022 03:50,Articulated_Truck_1,Misc,System Voltage,52.47
+169,02-05-2022 04:00,Dozer_1,Engine,Oil Pressure,92.33
+170,02-05-2022 04:10,Dozer_1,Misc,Air Filter Pressure,39.6
+171,02-05-2022 04:20,Backhoe_Loader_1,Fuel,Fuel Level,3.97
+172,02-05-2022 04:30,Excavator_1,Engine,Oil Pressure,12.12
+173,02-05-2022 04:40,Excavator_1,Engine,Speed,5727.4
+174,02-05-2022 04:50,Backhoe_Loader_1,Fuel,Temperature,758.6
+175,02-05-2022 05:00,Excavator_1,Fuel,Temperature,418.22
+176,02-05-2022 05:10,Backhoe_Loader_1,Fuel,Fuel Level,4.89
+177,02-05-2022 05:20,Excavator_1,Drive,Transmission Pressure,1693.54
+178,02-05-2022 05:30,Backhoe_Loader_1,Drive,Transmission Pressure,40.91
+179,02-05-2022 05:40,Articulated_Truck_1,Engine,Temperature,34.88
+180,02-05-2022 05:50,Dozer_1,Misc,Hydraulic Pump Rate,236.24
+181,02-05-2022 06:00,Excavator_1,Drive,Brake Control,3.59
+182,02-05-2022 06:10,Backhoe_Loader_1,Drive,Brake Control,3.8
+183,02-05-2022 06:20,Dozer_1,Drive,Pedal Sensor,0.72
+184,02-05-2022 06:30,Backhoe_Loader_1,Misc,Exhaust Gas Temperature,1894.49
+185,02-05-2022 06:40,Articulated_Truck_1,Fuel,Water in Fuel,124.59
+186,02-05-2022 06:50,Backhoe_Loader_1,Fuel,Temperature,192.09
+187,02-05-2022 07:00,Dozer_1,Misc,System Voltage,53.46
+188,02-05-2022 07:10,Excavator_1,Engine,Oil Pressure,21.57
+189,02-05-2022 07:20,Excavator_1,Misc,Air Filter Pressure,37.03
+190,02-05-2022 07:30,Dozer_1,Engine,Speed,1971.14
+191,02-05-2022 07:40,Articulated_Truck_1,Engine,Oil Pressure,61.83
+192,02-05-2022 07:50,Backhoe_Loader_1,Misc,Exhaust Gas Temperature,545.92
+193,02-05-2022 08:00,Backhoe_Loader_1,Drive,Pedal Sensor,7.4
+194,02-05-2022 08:10,Excavator_1,Engine,Temperature,406.0
+195,02-05-2022 08:20,Backhoe_Loader_1,Misc,Air Filter Pressure,0.75
+196,02-05-2022 08:30,Backhoe_Loader_1,Engine,Speed,2697.49
+197,02-05-2022 08:40,Backhoe_Loader_1,Misc,Air Filter Pressure,2.08
+198,02-05-2022 08:50,Dozer_1,Drive,Transmission Pressure,1597.82
+199,02-05-2022 09:00,Backhoe_Loader_1,Fuel,Temperature,671.61
+200,02-05-2022 09:10,Articulated_Truck_1,Engine,Speed,692.52
+201,02-05-2022 09:20,Excavator_1,Fuel,Water in Fuel,4213.32
+202,02-05-2022 09:30,Articulated_Truck_1,Misc,Hydraulic Pump Rate,73.94
+203,02-05-2022 09:40,Articulated_Truck_1,Engine,Oil Pressure,20.7
+204,02-05-2022 09:50,Dozer_1,Fuel,Fuel Level,3.24
+205,02-05-2022 10:00,Excavator_1,Drive,Pedal Sensor,8.12
+206,02-05-2022 10:10,Backhoe_Loader_1,Fuel,Water in Fuel,266.56
+207,02-05-2022 10:20,Backhoe_Loader_1,Engine,Temperature,353.58
+208,02-05-2022 10:30,Dozer_1,Fuel,Fuel Pressure,79.15
+209,02-05-2022 10:40,Articulated_Truck_1,Misc,Exhaust Gas Temperature,1430.5
+210,02-05-2022 10:50,Excavator_1,Drive,Transmission Pressure,1359.42
+211,02-05-2022 11:00,Excavator_1,Misc,Air Filter Pressure,18.41
+212,02-05-2022 11:10,Excavator_1,Engine,Speed,2142.47
+213,02-05-2022 11:20,Dozer_1,Drive,Brake Control,3.22
+214,02-05-2022 11:30,Backhoe_Loader_1,Engine,Speed,3943.74
+215,02-05-2022 11:40,Excavator_1,Engine,Oil Pressure,127.58
+216,02-05-2022 11:50,Dozer_1,Fuel,Temperature,669.76
+217,02-05-2022 12:00,Excavator_1,Drive,Pedal Sensor,22.32
+218,02-05-2022 12:10,Excavator_1,Drive,Transmission Pressure,405.93
+219,02-05-2022 12:20,Articulated_Truck_1,Drive,Brake Control,2.35
+220,02-05-2022 12:30,Excavator_1,Drive,Transmission Pressure,1847.1
+221,02-05-2022 12:40,Dozer_1,Fuel,Fuel Pressure,122.01
+222,02-05-2022 12:50,Articulated_Truck_1,Misc,System Voltage,32.17
+223,02-05-2022 13:00,Articulated_Truck_1,Misc,Hydraulic Pump Rate,408.96
+224,02-05-2022 13:10,Excavator_1,Engine,Speed,4365.35
+225,02-05-2022 13:20,Articulated_Truck_1,Drive,Transmission Pressure,1500.73
+226,02-05-2022 13:30,Excavator_1,Misc,Exhaust Gas Temperature,1929.02
+227,02-05-2022 13:40,Excavator_1,Fuel,Fuel Level,2.12
+228,02-05-2022 13:50,Excavator_1,Engine,Oil Pressure,64.6
+229,02-05-2022 14:00,Excavator_1,Fuel,Fuel Level,0.74
+230,02-05-2022 14:10,Dozer_1,Engine,Temperature,207.77
+231,02-05-2022 14:20,Dozer_1,Fuel,Water in Fuel,2071.52
+232,02-05-2022 14:30,Backhoe_Loader_1,Misc,Air Filter Pressure,14.49
+233,02-05-2022 14:40,Backhoe_Loader_1,Drive,Pedal Sensor,19.07
+234,02-05-2022 14:50,Articulated_Truck_1,Fuel,Fuel Level,3.53
+235,02-05-2022 15:00,Articulated_Truck_1,Fuel,Fuel Level,3.88
+236,02-05-2022 15:10,Dozer_1,Drive,Transmission Pressure,1612.87
+237,02-05-2022 15:20,Excavator_1,Engine,Oil Pressure,85.06
+238,02-05-2022 15:30,Backhoe_Loader_1,Drive,Transmission Pressure,606.53
+239,02-05-2022 15:40,Excavator_1,Engine,Temperature,47.23
+240,02-05-2022 15:50,Backhoe_Loader_1,Drive,Brake Control,3.56
+241,02-05-2022 16:00,Backhoe_Loader_1,Drive,Brake Control,2.68
+242,02-05-2022 16:10,Excavator_1,Drive,Brake Control,2.42
+243,02-05-2022 16:20,Backhoe_Loader_1,Fuel,Temperature,219.98
+244,02-05-2022 16:30,Excavator_1,Drive,Transmission Pressure,1570.76
+245,02-05-2022 16:40,Excavator_1,Misc,System Voltage,57.13
+246,02-05-2022 16:50,Dozer_1,Misc,System Voltage,71.01
+247,02-05-2022 17:00,Articulated_Truck_1,Misc,System Voltage,10.33
+248,02-05-2022 17:10,Backhoe_Loader_1,Engine,Oil Pressure,82.7
+249,02-05-2022 17:20,Backhoe_Loader_1,Fuel,Fuel Pressure,196.45
+250,02-05-2022 17:30,Articulated_Truck_1,Engine,Speed,4541.3
+251,02-05-2022 17:40,Backhoe_Loader_1,Drive,Pedal Sensor,25.05
+252,02-05-2022 17:50,Backhoe_Loader_1,Drive,Pedal Sensor,11.36
+253,02-05-2022 18:00,Backhoe_Loader_1,Fuel,Water in Fuel,603.88
+254,02-05-2022 18:10,Backhoe_Loader_1,Misc,System Voltage,89.65
+255,02-05-2022 18:20,Excavator_1,Fuel,Temperature,109.05
+256,02-05-2022 18:30,Articulated_Truck_1,Fuel,Water in Fuel,3324.82
+257,02-05-2022 18:40,Articulated_Truck_1,Fuel,Water in Fuel,1036.64
+258,02-05-2022 18:50,Articulated_Truck_1,Fuel,Temperature,313.94
+259,02-05-2022 19:00,Backhoe_Loader_1,Fuel,Temperature,721.02
+260,02-05-2022 19:10,Articulated_Truck_1,Misc,Exhaust Gas Temperature,602.11
+261,02-05-2022 19:20,Excavator_1,Fuel,Fuel Pressure,34.36
+262,02-05-2022 19:30,Backhoe_Loader_1,Fuel,Fuel Level,0.38
+263,02-05-2022 19:40,Excavator_1,Drive,Brake Control,0.73
+264,02-05-2022 19:50,Articulated_Truck_1,Engine,Speed,3647.74
+265,02-05-2022 20:00,Excavator_1,Drive,Transmission Pressure,789.45
+266,02-05-2022 20:10,Dozer_1,Engine,Temperature,751.01
+267,02-05-2022 20:20,Excavator_1,Drive,Pedal Sensor,12.4
+268,02-05-2022 20:30,Articulated_Truck_1,Drive,Transmission Pressure,1745.0
+269,02-05-2022 20:40,Dozer_1,Misc,Air Filter Pressure,15.44
+270,02-05-2022 20:50,Excavator_1,Engine,Temperature,27.65
+271,02-05-2022 21:00,Excavator_1,Engine,Oil Pressure,74.51
+272,02-05-2022 21:10,Backhoe_Loader_1,Drive,Brake Control,2.58
+273,02-05-2022 21:20,Dozer_1,Drive,Brake Control,0.75
+274,02-05-2022 21:30,Articulated_Truck_1,Misc,System Voltage,17.89
+275,02-05-2022 21:40,Articulated_Truck_1,Fuel,Fuel Level,3.89
+276,02-05-2022 21:50,Dozer_1,Fuel,Fuel Pressure,27.21
+277,02-05-2022 22:00,Articulated_Truck_1,Fuel,Fuel Pressure,176.79
+278,02-05-2022 22:10,Excavator_1,Fuel,Fuel Level,2.11
+279,02-05-2022 22:20,Backhoe_Loader_1,Fuel,Fuel Pressure,69.99
+280,02-05-2022 22:30,Backhoe_Loader_1,Fuel,Water in Fuel,5489.94
+281,02-05-2022 22:40,Articulated_Truck_1,Drive,Brake Control,2.89
+282,02-05-2022 22:50,Backhoe_Loader_1,Misc,Exhaust Gas Temperature,1278.21
+283,02-05-2022 23:00,Dozer_1,Misc,Air Filter Pressure,0.37
+284,02-05-2022 23:10,Backhoe_Loader_1,Misc,Exhaust Gas Temperature,1638.11
+285,02-05-2022 23:20,Dozer_1,Misc,Hydraulic Pump Rate,254.77
+286,02-05-2022 23:30,Articulated_Truck_1,Drive,Brake Control,2.23
+287,02-05-2022 23:40,Excavator_1,Fuel,Temperature,417.84
+288,02-05-2022 23:50,Backhoe_Loader_1,Drive,Transmission Pressure,865.72
+289,03-05-2022 00:00,Dozer_1,Drive,Transmission Pressure,1862.15
+290,03-05-2022 00:10,Articulated_Truck_1,Engine,Temperature,405.92
+291,03-05-2022 00:20,Excavator_1,Misc,Air Filter Pressure,37.9
+292,03-05-2022 00:30,Dozer_1,Misc,Hydraulic Pump Rate,386.62
+293,03-05-2022 00:40,Backhoe_Loader_1,Fuel,Water in Fuel,2947.61
+294,03-05-2022 00:50,Excavator_1,Fuel,Fuel Pressure,138.9
+295,03-05-2022 01:00,Articulated_Truck_1,Misc,Exhaust Gas Temperature,1859.11
+296,03-05-2022 01:10,Dozer_1,Engine,Oil Pressure,97.1
+297,03-05-2022 01:20,Articulated_Truck_1,Engine,Temperature,20.15
+298,03-05-2022 01:30,Backhoe_Loader_1,Drive,Brake Control,3.95
+299,03-05-2022 01:40,Excavator_1,Engine,Speed,5644.56
+300,03-05-2022 01:50,Dozer_1,Misc,System Voltage,3.18
+301,03-05-2022 02:00,Backhoe_Loader_1,Drive,Brake Control,1.69
+302,03-05-2022 02:10,Dozer_1,Engine,Temperature,731.84
+303,03-05-2022 02:20,Dozer_1,Drive,Brake Control,3.05
+304,03-05-2022 02:30,Dozer_1,Fuel,Fuel Pressure,142.67
+305,03-05-2022 02:40,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,179.01
+306,03-05-2022 02:50,Articulated_Truck_1,Misc,Exhaust Gas Temperature,1780.85
+307,03-05-2022 03:00,Excavator_1,Misc,Hydraulic Pump Rate,361.75
+308,03-05-2022 03:10,Backhoe_Loader_1,Misc,Air Filter Pressure,36.56
+309,03-05-2022 03:20,Dozer_1,Engine,Temperature,204.55
+310,03-05-2022 03:30,Articulated_Truck_1,Fuel,Temperature,280.34
+311,03-05-2022 03:40,Dozer_1,Fuel,Water in Fuel,695.27
+312,03-05-2022 03:50,Excavator_1,Engine,Temperature,545.57
+313,03-05-2022 04:00,Excavator_1,Misc,System Voltage,39.04
+314,03-05-2022 04:10,Dozer_1,Engine,Temperature,315.37
+315,03-05-2022 04:20,Dozer_1,Drive,Brake Control,0.34
+316,03-05-2022 04:30,Articulated_Truck_1,Drive,Pedal Sensor,6.15
+317,03-05-2022 04:40,Dozer_1,Misc,Air Filter Pressure,22.73
+318,03-05-2022 04:50,Dozer_1,Drive,Pedal Sensor,10.56
+319,03-05-2022 05:00,Backhoe_Loader_1,Drive,Transmission Pressure,1253.21
+320,03-05-2022 05:10,Articulated_Truck_1,Drive,Brake Control,3.6
+321,03-05-2022 05:20,Excavator_1,Misc,Hydraulic Pump Rate,152.31
+322,03-05-2022 05:30,Articulated_Truck_1,Engine,Oil Pressure,137.99
+323,03-05-2022 05:40,Articulated_Truck_1,Fuel,Fuel Level,2.45
+324,03-05-2022 05:50,Articulated_Truck_1,Engine,Temperature,457.04
+325,03-05-2022 06:00,Excavator_1,Engine,Temperature,367.25
+326,03-05-2022 06:10,Backhoe_Loader_1,Engine,Temperature,400.47
+327,03-05-2022 06:20,Backhoe_Loader_1,Fuel,Temperature,783.89
+328,03-05-2022 06:30,Excavator_1,Engine,Speed,5770.79
+329,03-05-2022 06:40,Dozer_1,Engine,Oil Pressure,85.3
+330,03-05-2022 06:50,Articulated_Truck_1,Engine,Oil Pressure,123.14
+331,03-05-2022 07:00,Dozer_1,Engine,Oil Pressure,109.72
+332,03-05-2022 07:10,Dozer_1,Fuel,Water in Fuel,5992.72
+333,03-05-2022 07:20,Articulated_Truck_1,Engine,Oil Pressure,78.19
+334,03-05-2022 07:30,Backhoe_Loader_1,Drive,Brake Control,3.86
+335,03-05-2022 07:40,Excavator_1,Misc,Hydraulic Pump Rate,234.01
+336,03-05-2022 07:50,Dozer_1,Drive,Transmission Pressure,337.11
+337,03-05-2022 08:00,Articulated_Truck_1,Fuel,Fuel Level,3.55
+338,03-05-2022 08:10,Backhoe_Loader_1,Drive,Brake Control,1.71
+339,03-05-2022 08:20,Articulated_Truck_1,Engine,Temperature,116.74
+340,03-05-2022 08:30,Backhoe_Loader_1,Drive,Pedal Sensor,7.34
+341,03-05-2022 08:40,Articulated_Truck_1,Misc,Hydraulic Pump Rate,353.07
+342,03-05-2022 08:50,Dozer_1,Engine,Oil Pressure,23.5
+343,03-05-2022 09:00,Backhoe_Loader_1,Drive,Brake Control,3.65
+344,03-05-2022 09:10,Backhoe_Loader_1,Engine,Temperature,765.06
+345,03-05-2022 09:20,Dozer_1,Misc,Air Filter Pressure,3.17
+346,03-05-2022 09:30,Excavator_1,Engine,Temperature,672.26
+347,03-05-2022 09:40,Articulated_Truck_1,Drive,Transmission Pressure,369.02
+348,03-05-2022 09:50,Excavator_1,Engine,Speed,3961.39
+349,03-05-2022 10:00,Excavator_1,Misc,Air Filter Pressure,34.49
+350,03-05-2022 10:10,Backhoe_Loader_1,Engine,Temperature,194.03
+351,03-05-2022 10:20,Backhoe_Loader_1,Drive,Transmission Pressure,1486.93
+352,03-05-2022 10:30,Backhoe_Loader_1,Fuel,Fuel Level,4.04
+353,03-05-2022 10:40,Articulated_Truck_1,Fuel,Fuel Level,1.61
+354,03-05-2022 10:50,Articulated_Truck_1,Fuel,Temperature,179.45
+355,03-05-2022 11:00,Dozer_1,Engine,Oil Pressure,24.51
+356,03-05-2022 11:10,Dozer_1,Misc,System Voltage,87.22
+357,03-05-2022 11:20,Backhoe_Loader_1,Fuel,Fuel Pressure,198.17
+358,03-05-2022 11:30,Articulated_Truck_1,Misc,Exhaust Gas Temperature,1723.93
+359,03-05-2022 11:40,Dozer_1,Drive,Brake Control,0.99
+360,03-05-2022 11:50,Articulated_Truck_1,Misc,Exhaust Gas Temperature,1698.78
+361,03-05-2022 12:00,Dozer_1,Misc,Hydraulic Pump Rate,77.31
+362,03-05-2022 12:10,Backhoe_Loader_1,Fuel,Temperature,14.66
+363,03-05-2022 12:20,Excavator_1,Drive,Transmission Pressure,1513.31
+364,03-05-2022 12:30,Backhoe_Loader_1,Drive,Brake Control,2.12
+365,03-05-2022 12:40,Articulated_Truck_1,Engine,Temperature,609.43
+366,03-05-2022 12:50,Articulated_Truck_1,Misc,Air Filter Pressure,26.23
+367,03-05-2022 13:00,Articulated_Truck_1,Misc,Hydraulic Pump Rate,215.41
+368,03-05-2022 13:10,Backhoe_Loader_1,Drive,Transmission Pressure,1434.72
+369,03-05-2022 13:20,Backhoe_Loader_1,Engine,Oil Pressure,112.61
+370,03-05-2022 13:30,Dozer_1,Misc,Air Filter Pressure,35.08
+371,03-05-2022 13:40,Articulated_Truck_1,Fuel,Water in Fuel,5884.81
+372,03-05-2022 13:50,Excavator_1,Drive,Brake Control,3.1
+373,03-05-2022 14:00,Dozer_1,Engine,Temperature,793.19
+374,03-05-2022 14:10,Excavator_1,Engine,Oil Pressure,107.22
+375,03-05-2022 14:20,Articulated_Truck_1,Drive,Pedal Sensor,1.9
+376,03-05-2022 14:30,Articulated_Truck_1,Fuel,Fuel Level,0.37
+377,03-05-2022 14:40,Excavator_1,Fuel,Water in Fuel,5222.09
+378,03-05-2022 14:50,Articulated_Truck_1,Drive,Transmission Pressure,474.17
+379,03-05-2022 15:00,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,241.94
+380,03-05-2022 15:10,Dozer_1,Misc,System Voltage,42.74
+381,03-05-2022 15:20,Excavator_1,Drive,Pedal Sensor,16.96
+382,03-05-2022 15:30,Excavator_1,Engine,Speed,105.64
+383,03-05-2022 15:40,Backhoe_Loader_1,Drive,Transmission Pressure,1014.53
+384,03-05-2022 15:50,Excavator_1,Engine,Temperature,67.41
+385,03-05-2022 16:00,Backhoe_Loader_1,Fuel,Fuel Level,2.88
+386,03-05-2022 16:10,Excavator_1,Drive,Brake Control,3.68
+387,03-05-2022 16:20,Articulated_Truck_1,Fuel,Temperature,183.27
+388,03-05-2022 16:30,Excavator_1,Drive,Brake Control,0.3
+389,03-05-2022 16:40,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,135.33
+390,03-05-2022 16:50,Dozer_1,Fuel,Fuel Pressure,149.94
+391,03-05-2022 17:00,Excavator_1,Drive,Transmission Pressure,191.87
+392,03-05-2022 17:10,Excavator_1,Engine,Temperature,405.63
+393,03-05-2022 17:20,Dozer_1,Drive,Pedal Sensor,28.9
+394,03-05-2022 17:30,Excavator_1,Fuel,Fuel Level,0.88
+395,03-05-2022 17:40,Dozer_1,Fuel,Temperature,332.05
+396,03-05-2022 17:50,Articulated_Truck_1,Drive,Transmission Pressure,1632.82
+397,03-05-2022 18:00,Dozer_1,Misc,Exhaust Gas Temperature,576.18
+398,03-05-2022 18:10,Backhoe_Loader_1,Engine,Speed,6428.16
+399,03-05-2022 18:20,Articulated_Truck_1,Fuel,Water in Fuel,295.21
+400,03-05-2022 18:30,Backhoe_Loader_1,Fuel,Fuel Level,2.9
+401,03-05-2022 18:40,Articulated_Truck_1,Fuel,Water in Fuel,6684.42
+402,03-05-2022 18:50,Articulated_Truck_1,Misc,Hydraulic Pump Rate,401.62
+403,03-05-2022 19:00,Backhoe_Loader_1,Fuel,Fuel Pressure,17.2
+404,03-05-2022 19:10,Dozer_1,Drive,Transmission Pressure,1831.13
+405,03-05-2022 19:20,Articulated_Truck_1,Misc,System Voltage,71.45
+406,03-05-2022 19:30,Dozer_1,Drive,Brake Control,1.13
+407,03-05-2022 19:40,Articulated_Truck_1,Misc,Hydraulic Pump Rate,364.92
+408,03-05-2022 19:50,Articulated_Truck_1,Misc,Air Filter Pressure,19.12
+409,03-05-2022 20:00,Articulated_Truck_1,Misc,Air Filter Pressure,38.59
+410,03-05-2022 20:10,Articulated_Truck_1,Drive,Brake Control,3.71
+411,03-05-2022 20:20,Backhoe_Loader_1,Fuel,Fuel Pressure,122.75
+412,03-05-2022 20:30,Dozer_1,Drive,Brake Control,0.05
+413,03-05-2022 20:40,Excavator_1,Fuel,Fuel Level,4.9
+414,03-05-2022 20:50,Dozer_1,Fuel,Temperature,779.88
+415,03-05-2022 21:00,Articulated_Truck_1,Engine,Temperature,240.34
+416,03-05-2022 21:10,Articulated_Truck_1,Misc,Air Filter Pressure,19.24
+417,03-05-2022 21:20,Articulated_Truck_1,Engine,Oil Pressure,146.91
+418,03-05-2022 21:30,Dozer_1,Fuel,Fuel Pressure,166.56
+419,03-05-2022 21:40,Backhoe_Loader_1,Fuel,Temperature,589.76
+420,03-05-2022 21:50,Backhoe_Loader_1,Drive,Transmission Pressure,881.49
+421,03-05-2022 22:00,Dozer_1,Drive,Brake Control,2.25
+422,03-05-2022 22:10,Backhoe_Loader_1,Fuel,Temperature,768.57
+423,03-05-2022 22:20,Articulated_Truck_1,Misc,Air Filter Pressure,3.22
+424,03-05-2022 22:30,Excavator_1,Misc,Air Filter Pressure,25.75
+425,03-05-2022 22:40,Backhoe_Loader_1,Fuel,Fuel Level,1.96
+426,03-05-2022 22:50,Excavator_1,Engine,Speed,2859.78
+427,03-05-2022 23:00,Excavator_1,Fuel,Fuel Level,0.2
+428,03-05-2022 23:10,Dozer_1,Misc,Air Filter Pressure,38.22
+429,03-05-2022 23:20,Dozer_1,Engine,Speed,873.97
+430,03-05-2022 23:30,Backhoe_Loader_1,Engine,Speed,1475.54
+431,03-05-2022 23:40,Excavator_1,Fuel,Water in Fuel,1059.71
+432,03-05-2022 23:50,Excavator_1,Fuel,Temperature,308.83
+433,04-05-2022 00:00,Articulated_Truck_1,Engine,Oil Pressure,88.49
+434,04-05-2022 00:10,Dozer_1,Drive,Brake Control,0.47
+435,04-05-2022 00:20,Dozer_1,Drive,Transmission Pressure,1170.38
+436,04-05-2022 00:30,Backhoe_Loader_1,Engine,Temperature,518.18
+437,04-05-2022 00:40,Dozer_1,Misc,Hydraulic Pump Rate,378.61
+438,04-05-2022 00:50,Articulated_Truck_1,Engine,Temperature,467.32
+439,04-05-2022 01:00,Backhoe_Loader_1,Engine,Speed,3968.51
+440,04-05-2022 01:10,Articulated_Truck_1,Drive,Transmission Pressure,1873.91
+441,04-05-2022 01:20,Backhoe_Loader_1,Misc,Exhaust Gas Temperature,804.92
+442,04-05-2022 01:30,Dozer_1,Drive,Brake Control,0.74
+443,04-05-2022 01:40,Backhoe_Loader_1,Misc,System Voltage,92.21
+444,04-05-2022 01:50,Excavator_1,Misc,Air Filter Pressure,26.46
+445,04-05-2022 02:00,Backhoe_Loader_1,Fuel,Fuel Level,3.16
+446,04-05-2022 02:10,Excavator_1,Drive,Transmission Pressure,1589.81
+447,04-05-2022 02:20,Excavator_1,Fuel,Temperature,62.8
+448,04-05-2022 02:30,Dozer_1,Fuel,Fuel Pressure,102.03
+449,04-05-2022 02:40,Articulated_Truck_1,Misc,Air Filter Pressure,30.17
+450,04-05-2022 02:50,Articulated_Truck_1,Fuel,Fuel Pressure,132.5
+451,04-05-2022 03:00,Backhoe_Loader_1,Engine,Temperature,157.14
+452,04-05-2022 03:10,Excavator_1,Engine,Speed,3098.86
+453,04-05-2022 03:20,Articulated_Truck_1,Drive,Transmission Pressure,288.03
+454,04-05-2022 03:30,Dozer_1,Fuel,Temperature,92.59
+455,04-05-2022 03:40,Excavator_1,Fuel,Water in Fuel,5163.01
+456,04-05-2022 03:50,Backhoe_Loader_1,Drive,Brake Control,3.0
+457,04-05-2022 04:00,Backhoe_Loader_1,Fuel,Temperature,238.69
+458,04-05-2022 04:10,Articulated_Truck_1,Misc,Hydraulic Pump Rate,329.42
+459,04-05-2022 04:20,Backhoe_Loader_1,Drive,Transmission Pressure,638.03
+460,04-05-2022 04:30,Backhoe_Loader_1,Engine,Speed,2425.03
+461,04-05-2022 04:40,Backhoe_Loader_1,Drive,Transmission Pressure,900.36
+462,04-05-2022 04:50,Backhoe_Loader_1,Misc,System Voltage,7.78
+463,04-05-2022 05:00,Excavator_1,Misc,System Voltage,46.65
+464,04-05-2022 05:10,Excavator_1,Misc,Exhaust Gas Temperature,1233.13
+465,04-05-2022 05:20,Articulated_Truck_1,Fuel,Fuel Pressure,197.36
+466,04-05-2022 05:30,Articulated_Truck_1,Fuel,Temperature,369.94
+467,04-05-2022 05:40,Articulated_Truck_1,Engine,Oil Pressure,100.88
+468,04-05-2022 05:50,Dozer_1,Misc,Air Filter Pressure,29.55
+469,04-05-2022 06:00,Articulated_Truck_1,Drive,Pedal Sensor,8.56
+470,04-05-2022 06:10,Articulated_Truck_1,Engine,Temperature,743.55
+471,04-05-2022 06:20,Articulated_Truck_1,Engine,Speed,1601.0
+472,04-05-2022 06:30,Backhoe_Loader_1,Misc,System Voltage,27.33
+473,04-05-2022 06:40,Backhoe_Loader_1,Engine,Speed,5427.27
+474,04-05-2022 06:50,Dozer_1,Misc,Hydraulic Pump Rate,266.33
+475,04-05-2022 07:00,Excavator_1,Drive,Pedal Sensor,22.53
+476,04-05-2022 07:10,Dozer_1,Engine,Speed,5355.31
+477,04-05-2022 07:20,Articulated_Truck_1,Fuel,Water in Fuel,6404.38
+478,04-05-2022 07:30,Articulated_Truck_1,Engine,Temperature,371.96
+479,04-05-2022 07:40,Articulated_Truck_1,Misc,Hydraulic Pump Rate,416.21
+480,04-05-2022 07:50,Articulated_Truck_1,Misc,System Voltage,84.16
+481,04-05-2022 08:00,Backhoe_Loader_1,Fuel,Fuel Level,3.04
+482,04-05-2022 08:10,Dozer_1,Drive,Pedal Sensor,24.12
+483,04-05-2022 08:20,Dozer_1,Drive,Pedal Sensor,12.92
+484,04-05-2022 08:30,Articulated_Truck_1,Drive,Transmission Pressure,306.11
+485,04-05-2022 08:40,Dozer_1,Engine,Oil Pressure,123.94
+486,04-05-2022 08:50,Articulated_Truck_1,Drive,Transmission Pressure,311.85
+487,04-05-2022 09:00,Articulated_Truck_1,Misc,System Voltage,58.57
+488,04-05-2022 09:10,Articulated_Truck_1,Fuel,Fuel Pressure,30.29
+489,04-05-2022 09:20,Dozer_1,Fuel,Water in Fuel,4436.67
+490,04-05-2022 09:30,Articulated_Truck_1,Drive,Brake Control,0.08
+491,04-05-2022 09:40,Backhoe_Loader_1,Misc,System Voltage,65.62
+492,04-05-2022 09:50,Backhoe_Loader_1,Engine,Oil Pressure,50.15
+493,04-05-2022 10:00,Dozer_1,Misc,Hydraulic Pump Rate,355.39
+494,04-05-2022 10:10,Backhoe_Loader_1,Drive,Pedal Sensor,25.51
+495,04-05-2022 10:20,Backhoe_Loader_1,Fuel,Fuel Pressure,176.79
+496,04-05-2022 10:30,Backhoe_Loader_1,Engine,Speed,2791.71
+497,04-05-2022 10:40,Backhoe_Loader_1,Drive,Pedal Sensor,12.21
+498,04-05-2022 10:50,Articulated_Truck_1,Misc,System Voltage,85.0
+499,04-05-2022 11:00,Backhoe_Loader_1,Misc,Exhaust Gas Temperature,1518.44
+500,04-05-2022 11:10,Articulated_Truck_1,Misc,Air Filter Pressure,13.89
+501,04-05-2022 11:20,Backhoe_Loader_1,Engine,Speed,541.53
+502,04-05-2022 11:30,Backhoe_Loader_1,Engine,Oil Pressure,5.49
+503,04-05-2022 11:40,Backhoe_Loader_1,Fuel,Fuel Pressure,30.35
+504,04-05-2022 11:50,Articulated_Truck_1,Fuel,Temperature,652.66
+505,04-05-2022 12:00,Excavator_1,Fuel,Temperature,341.5
+506,04-05-2022 12:10,Dozer_1,Engine,Speed,6159.83
+507,04-05-2022 12:20,Articulated_Truck_1,Misc,Hydraulic Pump Rate,419.84
+508,04-05-2022 12:30,Dozer_1,Drive,Brake Control,1.74
+509,04-05-2022 12:40,Backhoe_Loader_1,Engine,Oil Pressure,131.14
+510,04-05-2022 12:50,Backhoe_Loader_1,Fuel,Water in Fuel,830.44
+511,04-05-2022 13:00,Backhoe_Loader_1,Engine,Speed,510.07
+512,04-05-2022 13:10,Excavator_1,Fuel,Fuel Pressure,68.15
+513,04-05-2022 13:20,Excavator_1,Fuel,Fuel Pressure,40.0
+514,04-05-2022 13:30,Dozer_1,Drive,Transmission Pressure,1415.69
+515,04-05-2022 13:40,Dozer_1,Misc,Exhaust Gas Temperature,990.19
+516,04-05-2022 13:50,Excavator_1,Drive,Brake Control,3.04
+517,04-05-2022 14:00,Dozer_1,Engine,Temperature,562.36
+518,04-05-2022 14:10,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,75.5
+519,04-05-2022 14:20,Articulated_Truck_1,Engine,Temperature,171.22
+520,04-05-2022 14:30,Backhoe_Loader_1,Drive,Pedal Sensor,7.76
+521,04-05-2022 14:40,Articulated_Truck_1,Misc,Air Filter Pressure,7.95
+522,04-05-2022 14:50,Articulated_Truck_1,Fuel,Fuel Pressure,82.58
+523,04-05-2022 15:00,Dozer_1,Drive,Pedal Sensor,19.68
+524,04-05-2022 15:10,Backhoe_Loader_1,Misc,Air Filter Pressure,7.69
+525,04-05-2022 15:20,Articulated_Truck_1,Fuel,Water in Fuel,3556.64
+526,04-05-2022 15:30,Backhoe_Loader_1,Drive,Transmission Pressure,1581.15
+527,04-05-2022 15:40,Excavator_1,Engine,Temperature,601.0
+528,04-05-2022 15:50,Excavator_1,Drive,Transmission Pressure,1427.29
+529,04-05-2022 16:00,Articulated_Truck_1,Engine,Oil Pressure,120.0
+530,04-05-2022 16:10,Dozer_1,Misc,System Voltage,33.45
+531,04-05-2022 16:20,Dozer_1,Misc,Hydraulic Pump Rate,240.61
+532,04-05-2022 16:30,Backhoe_Loader_1,Engine,Oil Pressure,26.4
+533,04-05-2022 16:40,Articulated_Truck_1,Fuel,Water in Fuel,1002.97
+534,04-05-2022 16:50,Articulated_Truck_1,Misc,System Voltage,41.11
+535,04-05-2022 17:00,Excavator_1,Engine,Speed,2914.57
+536,04-05-2022 17:10,Backhoe_Loader_1,Misc,Exhaust Gas Temperature,1464.91
+537,04-05-2022 17:20,Dozer_1,Drive,Pedal Sensor,27.43
+538,04-05-2022 17:30,Articulated_Truck_1,Engine,Oil Pressure,42.42
+539,04-05-2022 17:40,Articulated_Truck_1,Fuel,Temperature,152.57
+540,04-05-2022 17:50,Backhoe_Loader_1,Misc,Air Filter Pressure,36.07
+541,04-05-2022 18:00,Excavator_1,Drive,Brake Control,0.19
+542,04-05-2022 18:10,Backhoe_Loader_1,Engine,Temperature,717.42
+543,04-05-2022 18:20,Excavator_1,Fuel,Temperature,252.77
+544,04-05-2022 18:30,Backhoe_Loader_1,Misc,Air Filter Pressure,14.21
+545,04-05-2022 18:40,Backhoe_Loader_1,Engine,Temperature,688.98
+546,04-05-2022 18:50,Articulated_Truck_1,Fuel,Fuel Pressure,57.27
+547,04-05-2022 19:00,Dozer_1,Misc,Hydraulic Pump Rate,137.95
+548,04-05-2022 19:10,Articulated_Truck_1,Drive,Brake Control,3.6
+549,04-05-2022 19:20,Articulated_Truck_1,Fuel,Temperature,317.08
+550,04-05-2022 19:30,Excavator_1,Fuel,Fuel Level,1.96
+551,04-05-2022 19:40,Backhoe_Loader_1,Misc,System Voltage,46.05
+552,04-05-2022 19:50,Backhoe_Loader_1,Engine,Temperature,253.2
+553,04-05-2022 20:00,Excavator_1,Misc,Hydraulic Pump Rate,149.86
+554,04-05-2022 20:10,Dozer_1,Misc,Exhaust Gas Temperature,1525.25
+555,04-05-2022 20:20,Articulated_Truck_1,Drive,Transmission Pressure,1094.41
+556,04-05-2022 20:30,Excavator_1,Misc,Air Filter Pressure,10.34
+557,04-05-2022 20:40,Articulated_Truck_1,Misc,System Voltage,79.51
+558,04-05-2022 20:50,Excavator_1,Engine,Temperature,687.07
+559,04-05-2022 21:00,Excavator_1,Fuel,Fuel Pressure,147.48
+560,04-05-2022 21:10,Articulated_Truck_1,Drive,Brake Control,0.63
+561,04-05-2022 21:20,Backhoe_Loader_1,Engine,Oil Pressure,23.5
+562,04-05-2022 21:30,Articulated_Truck_1,Fuel,Temperature,517.23
+563,04-05-2022 21:40,Articulated_Truck_1,Fuel,Temperature,416.61
+564,04-05-2022 21:50,Excavator_1,Misc,Air Filter Pressure,0.86
+565,04-05-2022 22:00,Dozer_1,Fuel,Temperature,94.31
+566,04-05-2022 22:10,Excavator_1,Drive,Brake Control,2.13
+567,04-05-2022 22:20,Dozer_1,Drive,Transmission Pressure,697.08
+568,04-05-2022 22:30,Backhoe_Loader_1,Engine,Oil Pressure,136.05
+569,04-05-2022 22:40,Excavator_1,Engine,Oil Pressure,48.83
+570,04-05-2022 22:50,Articulated_Truck_1,Engine,Oil Pressure,51.45
+571,04-05-2022 23:00,Excavator_1,Engine,Temperature,711.58
+572,04-05-2022 23:10,Articulated_Truck_1,Engine,Speed,5629.06
+573,04-05-2022 23:20,Excavator_1,Fuel,Fuel Pressure,191.17
+574,04-05-2022 23:30,Excavator_1,Misc,Exhaust Gas Temperature,1993.87
+575,04-05-2022 23:40,Articulated_Truck_1,Drive,Transmission Pressure,1416.18
+576,04-05-2022 23:50,Articulated_Truck_1,Drive,Brake Control,1.92
+577,05-05-2022 00:00,Articulated_Truck_1,Fuel,Fuel Pressure,104.28
+578,05-05-2022 00:10,Backhoe_Loader_1,Misc,Air Filter Pressure,27.81
+579,05-05-2022 00:20,Backhoe_Loader_1,Misc,Air Filter Pressure,33.25
+580,05-05-2022 00:30,Articulated_Truck_1,Engine,Temperature,418.72
+581,05-05-2022 00:40,Excavator_1,Fuel,Water in Fuel,6466.31
+582,05-05-2022 00:50,Dozer_1,Fuel,Fuel Pressure,71.75
+583,05-05-2022 01:00,Backhoe_Loader_1,Fuel,Fuel Level,4.43
+584,05-05-2022 01:10,Dozer_1,Fuel,Water in Fuel,6542.94
+585,05-05-2022 01:20,Articulated_Truck_1,Drive,Pedal Sensor,0.61
+586,05-05-2022 01:30,Backhoe_Loader_1,Fuel,Fuel Pressure,70.99
+587,05-05-2022 01:40,Articulated_Truck_1,Misc,System Voltage,8.83
+588,05-05-2022 01:50,Articulated_Truck_1,Engine,Speed,3303.19
+589,05-05-2022 02:00,Articulated_Truck_1,Engine,Temperature,739.6
+590,05-05-2022 02:10,Excavator_1,Misc,Air Filter Pressure,26.53
+591,05-05-2022 02:20,Excavator_1,Misc,Exhaust Gas Temperature,1917.15
+592,05-05-2022 02:30,Backhoe_Loader_1,Misc,Air Filter Pressure,17.09
+593,05-05-2022 02:40,Excavator_1,Engine,Speed,4405.91
+594,05-05-2022 02:50,Backhoe_Loader_1,Engine,Speed,1488.93
+595,05-05-2022 03:00,Backhoe_Loader_1,Misc,System Voltage,57.07
+596,05-05-2022 03:10,Dozer_1,Engine,Speed,2037.65
+597,05-05-2022 03:20,Excavator_1,Misc,System Voltage,16.68
+598,05-05-2022 03:30,Dozer_1,Fuel,Temperature,136.71
+599,05-05-2022 03:40,Excavator_1,Misc,Air Filter Pressure,20.16
+600,05-05-2022 03:50,Excavator_1,Fuel,Fuel Level,0.71
+601,05-05-2022 04:00,Articulated_Truck_1,Engine,Speed,725.81
+602,05-05-2022 04:10,Backhoe_Loader_1,Misc,Air Filter Pressure,6.99
+603,05-05-2022 04:20,Articulated_Truck_1,Drive,Pedal Sensor,25.5
+604,05-05-2022 04:30,Backhoe_Loader_1,Drive,Transmission Pressure,1731.36
+605,05-05-2022 04:40,Backhoe_Loader_1,Drive,Brake Control,3.39
+606,05-05-2022 04:50,Dozer_1,Fuel,Water in Fuel,4530.47
+607,05-05-2022 05:00,Backhoe_Loader_1,Fuel,Water in Fuel,6894.93
+608,05-05-2022 05:10,Backhoe_Loader_1,Engine,Oil Pressure,18.91
+609,05-05-2022 05:20,Backhoe_Loader_1,Engine,Temperature,781.06
+610,05-05-2022 05:30,Excavator_1,Drive,Pedal Sensor,24.84
+611,05-05-2022 05:40,Backhoe_Loader_1,Misc,System Voltage,60.85
+612,05-05-2022 05:50,Excavator_1,Fuel,Fuel Pressure,121.83
+613,05-05-2022 06:00,Dozer_1,Engine,Oil Pressure,105.78
+614,05-05-2022 06:10,Excavator_1,Engine,Temperature,212.89
+615,05-05-2022 06:20,Backhoe_Loader_1,Drive,Transmission Pressure,870.2
+616,05-05-2022 06:30,Excavator_1,Drive,Pedal Sensor,14.24
+617,05-05-2022 06:40,Excavator_1,Drive,Pedal Sensor,4.36
+618,05-05-2022 06:50,Dozer_1,Engine,Speed,326.76
+619,05-05-2022 07:00,Excavator_1,Drive,Transmission Pressure,308.73
+620,05-05-2022 07:10,Excavator_1,Misc,System Voltage,58.77
+621,05-05-2022 07:20,Excavator_1,Fuel,Water in Fuel,1581.01
+622,05-05-2022 07:30,Excavator_1,Fuel,Temperature,244.4
+623,05-05-2022 07:40,Articulated_Truck_1,Fuel,Water in Fuel,654.6
+624,05-05-2022 07:50,Excavator_1,Fuel,Fuel Level,0.17
+625,05-05-2022 08:00,Articulated_Truck_1,Misc,Hydraulic Pump Rate,199.04
+626,05-05-2022 08:10,Dozer_1,Fuel,Water in Fuel,150.74
+627,05-05-2022 08:20,Articulated_Truck_1,Engine,Oil Pressure,149.41
+628,05-05-2022 08:30,Dozer_1,Fuel,Fuel Level,0.52
+629,05-05-2022 08:40,Excavator_1,Misc,Hydraulic Pump Rate,208.76
+630,05-05-2022 08:50,Excavator_1,Misc,Exhaust Gas Temperature,1742.7
+631,05-05-2022 09:00,Articulated_Truck_1,Misc,System Voltage,48.99
+632,05-05-2022 09:10,Excavator_1,Drive,Brake Control,2.79
+633,05-05-2022 09:20,Backhoe_Loader_1,Drive,Pedal Sensor,28.04
+634,05-05-2022 09:30,Articulated_Truck_1,Misc,Exhaust Gas Temperature,1051.09
+635,05-05-2022 09:40,Backhoe_Loader_1,Engine,Speed,5800.92
+636,05-05-2022 09:50,Backhoe_Loader_1,Engine,Speed,4874.36
+637,05-05-2022 10:00,Backhoe_Loader_1,Fuel,Water in Fuel,4239.72
+638,05-05-2022 10:10,Excavator_1,Drive,Brake Control,1.18
+639,05-05-2022 10:20,Dozer_1,Engine,Speed,3342.37
+640,05-05-2022 10:30,Backhoe_Loader_1,Drive,Transmission Pressure,1820.72
+641,05-05-2022 10:40,Dozer_1,Misc,Hydraulic Pump Rate,200.4
+642,05-05-2022 10:50,Backhoe_Loader_1,Fuel,Temperature,220.46
+643,05-05-2022 11:00,Dozer_1,Fuel,Fuel Level,0.22
+644,05-05-2022 11:10,Backhoe_Loader_1,Fuel,Fuel Pressure,111.5
+645,05-05-2022 11:20,Dozer_1,Misc,Air Filter Pressure,30.68
+646,05-05-2022 11:30,Dozer_1,Drive,Pedal Sensor,15.9
+647,05-05-2022 11:40,Dozer_1,Misc,Air Filter Pressure,31.49
+648,05-05-2022 11:50,Excavator_1,Drive,Pedal Sensor,14.66
+649,05-05-2022 12:00,Backhoe_Loader_1,Drive,Brake Control,0.74
+650,05-05-2022 12:10,Articulated_Truck_1,Fuel,Water in Fuel,333.81
+651,05-05-2022 12:20,Articulated_Truck_1,Fuel,Temperature,154.18
+652,05-05-2022 12:30,Articulated_Truck_1,Drive,Brake Control,1.93
+653,05-05-2022 12:40,Articulated_Truck_1,Engine,Speed,3122.57
+654,05-05-2022 12:50,Backhoe_Loader_1,Engine,Speed,2159.29
+655,05-05-2022 13:00,Dozer_1,Drive,Pedal Sensor,25.65
+656,05-05-2022 13:10,Dozer_1,Fuel,Temperature,254.26
+657,05-05-2022 13:20,Excavator_1,Fuel,Fuel Pressure,5.18
+658,05-05-2022 13:30,Articulated_Truck_1,Drive,Pedal Sensor,25.24
+659,05-05-2022 13:40,Excavator_1,Fuel,Fuel Level,0.4
+660,05-05-2022 13:50,Backhoe_Loader_1,Drive,Brake Control,2.47
+661,05-05-2022 14:00,Backhoe_Loader_1,Drive,Pedal Sensor,14.89
+662,05-05-2022 14:10,Articulated_Truck_1,Drive,Pedal Sensor,17.29
+663,05-05-2022 14:20,Dozer_1,Engine,Speed,5811.28
+664,05-05-2022 14:30,Backhoe_Loader_1,Misc,System Voltage,75.05
+665,05-05-2022 14:40,Articulated_Truck_1,Fuel,Temperature,98.84
+666,05-05-2022 14:50,Articulated_Truck_1,Misc,System Voltage,10.05
+667,05-05-2022 15:00,Dozer_1,Misc,Exhaust Gas Temperature,1349.98
+668,05-05-2022 15:10,Backhoe_Loader_1,Engine,Oil Pressure,46.96
+669,05-05-2022 15:20,Excavator_1,Fuel,Temperature,331.14
+670,05-05-2022 15:30,Dozer_1,Fuel,Temperature,244.25
+671,05-05-2022 15:40,Backhoe_Loader_1,Fuel,Temperature,328.85
+672,05-05-2022 15:50,Articulated_Truck_1,Engine,Speed,752.47
+673,05-05-2022 16:00,Backhoe_Loader_1,Drive,Pedal Sensor,14.24
+674,05-05-2022 16:10,Backhoe_Loader_1,Fuel,Water in Fuel,5559.78
+675,05-05-2022 16:20,Articulated_Truck_1,Drive,Brake Control,1.16
+676,05-05-2022 16:30,Articulated_Truck_1,Engine,Speed,3383.71
+677,05-05-2022 16:40,Dozer_1,Engine,Oil Pressure,63.82
+678,05-05-2022 16:50,Articulated_Truck_1,Engine,Oil Pressure,119.68
+679,05-05-2022 17:00,Excavator_1,Engine,Oil Pressure,53.26
+680,05-05-2022 17:10,Articulated_Truck_1,Engine,Oil Pressure,52.47
+681,05-05-2022 17:20,Excavator_1,Engine,Oil Pressure,107.5
+682,05-05-2022 17:30,Backhoe_Loader_1,Fuel,Water in Fuel,876.99
+683,05-05-2022 17:40,Excavator_1,Fuel,Temperature,686.74
+684,05-05-2022 17:50,Backhoe_Loader_1,Engine,Oil Pressure,19.52
+685,05-05-2022 18:00,Articulated_Truck_1,Drive,Pedal Sensor,24.46
+686,05-05-2022 18:10,Articulated_Truck_1,Drive,Brake Control,1.03
+687,05-05-2022 18:20,Articulated_Truck_1,Engine,Temperature,728.84
+688,05-05-2022 18:30,Articulated_Truck_1,Fuel,Water in Fuel,2099.71
+689,05-05-2022 18:40,Articulated_Truck_1,Fuel,Fuel Level,2.7
+690,05-05-2022 18:50,Articulated_Truck_1,Engine,Temperature,705.96
+691,05-05-2022 19:00,Dozer_1,Drive,Transmission Pressure,1973.81
+692,05-05-2022 19:10,Excavator_1,Engine,Temperature,687.12
+693,05-05-2022 19:20,Excavator_1,Engine,Oil Pressure,114.99
+694,05-05-2022 19:30,Articulated_Truck_1,Drive,Pedal Sensor,11.16
+695,05-05-2022 19:40,Articulated_Truck_1,Misc,Exhaust Gas Temperature,523.29
+696,05-05-2022 19:50,Backhoe_Loader_1,Engine,Temperature,272.49
+697,05-05-2022 20:00,Backhoe_Loader_1,Drive,Pedal Sensor,27.94
+698,05-05-2022 20:10,Dozer_1,Drive,Pedal Sensor,15.59
+699,05-05-2022 20:20,Excavator_1,Fuel,Fuel Level,0.25
+700,05-05-2022 20:30,Dozer_1,Misc,Hydraulic Pump Rate,304.08
+701,05-05-2022 20:40,Excavator_1,Drive,Pedal Sensor,7.82
+702,05-05-2022 20:50,Excavator_1,Drive,Brake Control,2.85
+703,05-05-2022 21:00,Backhoe_Loader_1,Engine,Temperature,727.26
+704,05-05-2022 21:10,Excavator_1,Drive,Transmission Pressure,1452.66
+705,05-05-2022 21:20,Backhoe_Loader_1,Drive,Transmission Pressure,602.7
+706,05-05-2022 21:30,Excavator_1,Drive,Brake Control,2.61
+707,05-05-2022 21:40,Dozer_1,Drive,Brake Control,2.55
+708,05-05-2022 21:50,Excavator_1,Misc,Air Filter Pressure,35.01
+709,05-05-2022 22:00,Backhoe_Loader_1,Misc,System Voltage,92.0
+710,05-05-2022 22:10,Articulated_Truck_1,Drive,Pedal Sensor,24.83
+711,05-05-2022 22:20,Articulated_Truck_1,Engine,Temperature,65.39
+712,05-05-2022 22:30,Dozer_1,Misc,Exhaust Gas Temperature,1848.83
+713,05-05-2022 22:40,Articulated_Truck_1,Drive,Pedal Sensor,10.79
+714,05-05-2022 22:50,Excavator_1,Engine,Temperature,404.62
+715,05-05-2022 23:00,Articulated_Truck_1,Engine,Oil Pressure,51.09
+716,05-05-2022 23:10,Articulated_Truck_1,Drive,Brake Control,1.15
+717,05-05-2022 23:20,Articulated_Truck_1,Drive,Brake Control,0.12
+718,05-05-2022 23:30,Excavator_1,Fuel,Temperature,753.31
+719,05-05-2022 23:40,Articulated_Truck_1,Engine,Oil Pressure,17.04
+720,05-05-2022 23:50,Backhoe_Loader_1,Fuel,Temperature,755.1
+721,06-05-2022 00:00,Articulated_Truck_1,Drive,Pedal Sensor,14.63
+722,06-05-2022 00:10,Dozer_1,Fuel,Temperature,773.45
+723,06-05-2022 00:20,Excavator_1,Fuel,Fuel Pressure,65.45
+724,06-05-2022 00:30,Articulated_Truck_1,Misc,Air Filter Pressure,9.01
+725,06-05-2022 00:40,Dozer_1,Misc,Exhaust Gas Temperature,903.08
+726,06-05-2022 00:50,Articulated_Truck_1,Fuel,Fuel Pressure,41.28
+727,06-05-2022 01:00,Excavator_1,Fuel,Fuel Level,3.02
+728,06-05-2022 01:10,Articulated_Truck_1,Fuel,Fuel Pressure,26.8
+729,06-05-2022 01:20,Articulated_Truck_1,Fuel,Fuel Level,3.46
+730,06-05-2022 01:30,Excavator_1,Engine,Temperature,602.59
+731,06-05-2022 01:40,Dozer_1,Misc,Air Filter Pressure,10.59
+732,06-05-2022 01:50,Articulated_Truck_1,Drive,Brake Control,2.86
+733,06-05-2022 02:00,Articulated_Truck_1,Engine,Speed,4956.04
+734,06-05-2022 02:10,Excavator_1,Misc,System Voltage,32.89
+735,06-05-2022 02:20,Excavator_1,Misc,Air Filter Pressure,20.08
+736,06-05-2022 02:30,Backhoe_Loader_1,Misc,Air Filter Pressure,31.17
+737,06-05-2022 02:40,Excavator_1,Engine,Temperature,431.68
+738,06-05-2022 02:50,Dozer_1,Fuel,Fuel Level,4.67
+739,06-05-2022 03:00,Excavator_1,Drive,Transmission Pressure,1998.3
+740,06-05-2022 03:10,Articulated_Truck_1,Misc,Exhaust Gas Temperature,1902.23
+741,06-05-2022 03:20,Articulated_Truck_1,Engine,Temperature,141.22
+742,06-05-2022 03:30,Excavator_1,Misc,Air Filter Pressure,13.38
+743,06-05-2022 03:40,Backhoe_Loader_1,Drive,Pedal Sensor,3.95
+744,06-05-2022 03:50,Backhoe_Loader_1,Misc,Air Filter Pressure,14.33
+745,06-05-2022 04:00,Articulated_Truck_1,Fuel,Temperature,320.69
+746,06-05-2022 04:10,Backhoe_Loader_1,Fuel,Water in Fuel,2186.44
+747,06-05-2022 04:20,Articulated_Truck_1,Engine,Speed,4907.0
+748,06-05-2022 04:30,Excavator_1,Misc,Hydraulic Pump Rate,308.47
+749,06-05-2022 04:40,Dozer_1,Engine,Speed,1141.52
+750,06-05-2022 04:50,Articulated_Truck_1,Engine,Oil Pressure,129.15
+751,06-05-2022 05:00,Dozer_1,Drive,Brake Control,1.99
+752,06-05-2022 05:10,Excavator_1,Drive,Brake Control,3.3
+753,06-05-2022 05:20,Backhoe_Loader_1,Misc,System Voltage,88.65
+754,06-05-2022 05:30,Articulated_Truck_1,Drive,Brake Control,0.34
+755,06-05-2022 05:40,Articulated_Truck_1,Drive,Pedal Sensor,11.47
+756,06-05-2022 05:50,Backhoe_Loader_1,Engine,Oil Pressure,115.15
+757,06-05-2022 06:00,Backhoe_Loader_1,Engine,Temperature,492.59
+758,06-05-2022 06:10,Articulated_Truck_1,Engine,Speed,6194.73
+759,06-05-2022 06:20,Backhoe_Loader_1,Misc,Air Filter Pressure,12.55
+760,06-05-2022 06:30,Articulated_Truck_1,Drive,Transmission Pressure,929.36
+761,06-05-2022 06:40,Dozer_1,Fuel,Fuel Level,4.04
+762,06-05-2022 06:50,Articulated_Truck_1,Fuel,Water in Fuel,2961.3
+763,06-05-2022 07:00,Excavator_1,Misc,Hydraulic Pump Rate,168.19
+764,06-05-2022 07:10,Backhoe_Loader_1,Engine,Temperature,53.88
+765,06-05-2022 07:20,Excavator_1,Drive,Brake Control,3.54
+766,06-05-2022 07:30,Backhoe_Loader_1,Engine,Speed,2006.31
+767,06-05-2022 07:40,Excavator_1,Drive,Pedal Sensor,13.97
+768,06-05-2022 07:50,Backhoe_Loader_1,Drive,Brake Control,0.64
+769,06-05-2022 08:00,Backhoe_Loader_1,Fuel,Temperature,776.49
+770,06-05-2022 08:10,Excavator_1,Drive,Transmission Pressure,1110.9
+771,06-05-2022 08:20,Dozer_1,Fuel,Water in Fuel,1577.03
+772,06-05-2022 08:30,Backhoe_Loader_1,Fuel,Temperature,429.0
+773,06-05-2022 08:40,Articulated_Truck_1,Fuel,Water in Fuel,5266.78
+774,06-05-2022 08:50,Articulated_Truck_1,Drive,Transmission Pressure,1762.8
+775,06-05-2022 09:00,Dozer_1,Fuel,Water in Fuel,4251.52
+776,06-05-2022 09:10,Excavator_1,Drive,Brake Control,2.59
+777,06-05-2022 09:20,Backhoe_Loader_1,Drive,Pedal Sensor,9.05
+778,06-05-2022 09:30,Excavator_1,Misc,Exhaust Gas Temperature,1271.96
+779,06-05-2022 09:40,Dozer_1,Drive,Transmission Pressure,213.72
+780,06-05-2022 09:50,Backhoe_Loader_1,Drive,Pedal Sensor,21.72
+781,06-05-2022 10:00,Excavator_1,Drive,Brake Control,0.06
+782,06-05-2022 10:10,Excavator_1,Misc,System Voltage,54.53
+783,06-05-2022 10:20,Backhoe_Loader_1,Drive,Pedal Sensor,10.65
+784,06-05-2022 10:30,Backhoe_Loader_1,Fuel,Fuel Pressure,163.83
+785,06-05-2022 10:40,Dozer_1,Misc,Hydraulic Pump Rate,439.94
+786,06-05-2022 10:50,Articulated_Truck_1,Misc,Exhaust Gas Temperature,928.26
+787,06-05-2022 11:00,Backhoe_Loader_1,Misc,Air Filter Pressure,21.43
+788,06-05-2022 11:10,Backhoe_Loader_1,Misc,Air Filter Pressure,32.51
+789,06-05-2022 11:20,Excavator_1,Fuel,Fuel Level,1.43
+790,06-05-2022 11:30,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,251.67
+791,06-05-2022 11:40,Dozer_1,Drive,Pedal Sensor,29.62
+792,06-05-2022 11:50,Articulated_Truck_1,Misc,Air Filter Pressure,22.55
+793,06-05-2022 12:00,Articulated_Truck_1,Misc,Air Filter Pressure,18.63
+794,06-05-2022 12:10,Excavator_1,Misc,Air Filter Pressure,21.23
+795,06-05-2022 12:20,Excavator_1,Engine,Temperature,119.89
+796,06-05-2022 12:30,Excavator_1,Drive,Pedal Sensor,20.52
+797,06-05-2022 12:40,Articulated_Truck_1,Drive,Transmission Pressure,1804.33
+798,06-05-2022 12:50,Articulated_Truck_1,Drive,Brake Control,1.74
+799,06-05-2022 13:00,Backhoe_Loader_1,Drive,Pedal Sensor,18.99
+800,06-05-2022 13:10,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,78.11
+801,06-05-2022 13:20,Excavator_1,Misc,Exhaust Gas Temperature,976.03
+802,06-05-2022 13:30,Excavator_1,Fuel,Temperature,39.4
+803,06-05-2022 13:40,Dozer_1,Fuel,Water in Fuel,4398.86
+804,06-05-2022 13:50,Backhoe_Loader_1,Engine,Speed,839.22
+805,06-05-2022 14:00,Articulated_Truck_1,Fuel,Fuel Level,0.15
+806,06-05-2022 14:10,Dozer_1,Engine,Temperature,71.08
+807,06-05-2022 14:20,Excavator_1,Fuel,Fuel Level,1.86
+808,06-05-2022 14:30,Dozer_1,Engine,Speed,4668.42
+809,06-05-2022 14:40,Excavator_1,Drive,Brake Control,0.02
+810,06-05-2022 14:50,Excavator_1,Misc,Hydraulic Pump Rate,430.2
+811,06-05-2022 15:00,Excavator_1,Fuel,Fuel Pressure,33.33
+812,06-05-2022 15:10,Backhoe_Loader_1,Drive,Pedal Sensor,17.52
+813,06-05-2022 15:20,Backhoe_Loader_1,Drive,Pedal Sensor,12.73
+814,06-05-2022 15:30,Excavator_1,Drive,Transmission Pressure,432.68
+815,06-05-2022 15:40,Articulated_Truck_1,Engine,Speed,3078.33
+816,06-05-2022 15:50,Articulated_Truck_1,Misc,Air Filter Pressure,30.66
+817,06-05-2022 16:00,Articulated_Truck_1,Engine,Temperature,460.71
+818,06-05-2022 16:10,Dozer_1,Misc,Air Filter Pressure,5.28
+819,06-05-2022 16:20,Backhoe_Loader_1,Misc,Exhaust Gas Temperature,231.79
+820,06-05-2022 16:30,Backhoe_Loader_1,Fuel,Temperature,664.99
+821,06-05-2022 16:40,Backhoe_Loader_1,Fuel,Fuel Pressure,77.63
+822,06-05-2022 16:50,Excavator_1,Misc,System Voltage,5.09
+823,06-05-2022 17:00,Excavator_1,Fuel,Temperature,246.16
+824,06-05-2022 17:10,Backhoe_Loader_1,Engine,Temperature,170.3
+825,06-05-2022 17:20,Articulated_Truck_1,Drive,Brake Control,3.88
+826,06-05-2022 17:30,Dozer_1,Drive,Pedal Sensor,21.32
+827,06-05-2022 17:40,Excavator_1,Drive,Pedal Sensor,5.76
+828,06-05-2022 17:50,Dozer_1,Fuel,Fuel Pressure,24.63
+829,06-05-2022 18:00,Backhoe_Loader_1,Misc,System Voltage,81.03
+830,06-05-2022 18:10,Articulated_Truck_1,Fuel,Fuel Level,0.28
+831,06-05-2022 18:20,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,177.02
+832,06-05-2022 18:30,Excavator_1,Misc,Air Filter Pressure,13.56
+833,06-05-2022 18:40,Articulated_Truck_1,Engine,Speed,1117.37
+834,06-05-2022 18:50,Dozer_1,Fuel,Temperature,523.08
+835,06-05-2022 19:00,Articulated_Truck_1,Engine,Oil Pressure,114.29
+836,06-05-2022 19:10,Dozer_1,Misc,System Voltage,84.9
+837,06-05-2022 19:20,Articulated_Truck_1,Engine,Temperature,281.89
+838,06-05-2022 19:30,Excavator_1,Engine,Temperature,290.79
+839,06-05-2022 19:40,Dozer_1,Drive,Transmission Pressure,1876.2
+840,06-05-2022 19:50,Excavator_1,Drive,Pedal Sensor,3.91
+841,06-05-2022 20:00,Backhoe_Loader_1,Engine,Temperature,794.64
+842,06-05-2022 20:10,Excavator_1,Drive,Brake Control,3.12
+843,06-05-2022 20:20,Excavator_1,Drive,Pedal Sensor,3.85
+844,06-05-2022 20:30,Excavator_1,Misc,Exhaust Gas Temperature,1472.62
+845,06-05-2022 20:40,Backhoe_Loader_1,Fuel,Fuel Level,4.14
+846,06-05-2022 20:50,Dozer_1,Misc,System Voltage,80.47
+847,06-05-2022 21:00,Articulated_Truck_1,Fuel,Temperature,593.72
+848,06-05-2022 21:10,Backhoe_Loader_1,Engine,Speed,3690.3
+849,06-05-2022 21:20,Excavator_1,Fuel,Fuel Level,3.21
+850,06-05-2022 21:30,Dozer_1,Fuel,Water in Fuel,4592.25
+851,06-05-2022 21:40,Articulated_Truck_1,Fuel,Fuel Pressure,115.61
+852,06-05-2022 21:50,Backhoe_Loader_1,Fuel,Fuel Level,1.13
+853,06-05-2022 22:00,Dozer_1,Fuel,Temperature,622.7
+854,06-05-2022 22:10,Backhoe_Loader_1,Engine,Temperature,532.66
+855,06-05-2022 22:20,Dozer_1,Engine,Speed,2109.59
+856,06-05-2022 22:30,Backhoe_Loader_1,Engine,Oil Pressure,47.07
+857,06-05-2022 22:40,Dozer_1,Fuel,Fuel Pressure,142.37
+858,06-05-2022 22:50,Articulated_Truck_1,Engine,Speed,6177.15
+859,06-05-2022 23:00,Backhoe_Loader_1,Engine,Temperature,410.1
+860,06-05-2022 23:10,Articulated_Truck_1,Drive,Pedal Sensor,19.34
+861,06-05-2022 23:20,Backhoe_Loader_1,Engine,Oil Pressure,54.88
+862,06-05-2022 23:30,Backhoe_Loader_1,Fuel,Fuel Level,3.31
+863,06-05-2022 23:40,Excavator_1,Misc,Hydraulic Pump Rate,319.8
+864,06-05-2022 23:50,Excavator_1,Drive,Brake Control,1.26
+865,07-05-2022 00:00,Dozer_1,Drive,Pedal Sensor,21.97
+866,07-05-2022 00:10,Articulated_Truck_1,Fuel,Temperature,455.84
+867,07-05-2022 00:20,Excavator_1,Misc,Hydraulic Pump Rate,213.78
+868,07-05-2022 00:30,Excavator_1,Misc,System Voltage,36.89
+869,07-05-2022 00:40,Articulated_Truck_1,Fuel,Fuel Pressure,93.12
+870,07-05-2022 00:50,Dozer_1,Engine,Temperature,61.7
+871,07-05-2022 01:00,Backhoe_Loader_1,Drive,Transmission Pressure,1968.6
+872,07-05-2022 01:10,Backhoe_Loader_1,Drive,Pedal Sensor,20.09
+873,07-05-2022 01:20,Articulated_Truck_1,Engine,Speed,3267.08
+874,07-05-2022 01:30,Dozer_1,Drive,Pedal Sensor,23.12
+875,07-05-2022 01:40,Articulated_Truck_1,Engine,Temperature,694.54
+876,07-05-2022 01:50,Excavator_1,Fuel,Temperature,55.33
+877,07-05-2022 02:00,Excavator_1,Drive,Brake Control,1.73
+878,07-05-2022 02:10,Excavator_1,Drive,Pedal Sensor,12.3
+879,07-05-2022 02:20,Articulated_Truck_1,Misc,Exhaust Gas Temperature,253.43
+880,07-05-2022 02:30,Excavator_1,Engine,Oil Pressure,7.18
+881,07-05-2022 02:40,Articulated_Truck_1,Fuel,Fuel Level,2.84
+882,07-05-2022 02:50,Articulated_Truck_1,Misc,Air Filter Pressure,3.94
+883,07-05-2022 03:00,Backhoe_Loader_1,Fuel,Fuel Pressure,11.94
+884,07-05-2022 03:10,Excavator_1,Misc,Exhaust Gas Temperature,1218.57
+885,07-05-2022 03:20,Excavator_1,Misc,Hydraulic Pump Rate,233.91
+886,07-05-2022 03:30,Excavator_1,Engine,Speed,5427.37
+887,07-05-2022 03:40,Dozer_1,Fuel,Fuel Pressure,182.95
+888,07-05-2022 03:50,Dozer_1,Drive,Transmission Pressure,1344.06
+889,07-05-2022 04:00,Excavator_1,Drive,Brake Control,1.08
+890,07-05-2022 04:10,Articulated_Truck_1,Fuel,Water in Fuel,6151.44
+891,07-05-2022 04:20,Excavator_1,Engine,Speed,5281.84
+892,07-05-2022 04:30,Articulated_Truck_1,Drive,Brake Control,0.37
+893,07-05-2022 04:40,Dozer_1,Fuel,Fuel Level,0.77
+894,07-05-2022 04:50,Backhoe_Loader_1,Engine,Speed,2027.69
+895,07-05-2022 05:00,Articulated_Truck_1,Drive,Pedal Sensor,19.74
+896,07-05-2022 05:10,Excavator_1,Fuel,Fuel Level,3.98
+897,07-05-2022 05:20,Excavator_1,Fuel,Water in Fuel,4026.53
+898,07-05-2022 05:30,Dozer_1,Fuel,Water in Fuel,3536.57
+899,07-05-2022 05:40,Articulated_Truck_1,Engine,Oil Pressure,10.92
+900,07-05-2022 05:50,Dozer_1,Drive,Transmission Pressure,1277.13
+901,07-05-2022 06:00,Excavator_1,Misc,Exhaust Gas Temperature,250.32
+902,07-05-2022 06:10,Dozer_1,Engine,Temperature,44.46
+903,07-05-2022 06:20,Excavator_1,Misc,Hydraulic Pump Rate,90.2
+904,07-05-2022 06:30,Articulated_Truck_1,Fuel,Temperature,624.72
+905,07-05-2022 06:40,Backhoe_Loader_1,Engine,Oil Pressure,17.29
+906,07-05-2022 06:50,Backhoe_Loader_1,Engine,Speed,2182.63
+907,07-05-2022 07:00,Excavator_1,Drive,Pedal Sensor,18.08
+908,07-05-2022 07:10,Backhoe_Loader_1,Engine,Temperature,297.05
+909,07-05-2022 07:20,Articulated_Truck_1,Drive,Transmission Pressure,885.01
+910,07-05-2022 07:30,Excavator_1,Fuel,Temperature,171.42
+911,07-05-2022 07:40,Backhoe_Loader_1,Misc,Exhaust Gas Temperature,1658.96
+912,07-05-2022 07:50,Articulated_Truck_1,Engine,Oil Pressure,83.39
+913,07-05-2022 08:00,Backhoe_Loader_1,Fuel,Water in Fuel,1205.34
+914,07-05-2022 08:10,Dozer_1,Drive,Pedal Sensor,13.34
+915,07-05-2022 08:20,Backhoe_Loader_1,Drive,Transmission Pressure,1815.03
+916,07-05-2022 08:30,Excavator_1,Engine,Oil Pressure,60.09
+917,07-05-2022 08:40,Dozer_1,Engine,Speed,692.25
+918,07-05-2022 08:50,Articulated_Truck_1,Fuel,Temperature,187.08
+919,07-05-2022 09:00,Dozer_1,Misc,Hydraulic Pump Rate,75.32
+920,07-05-2022 09:10,Dozer_1,Misc,Hydraulic Pump Rate,153.14
+921,07-05-2022 09:20,Dozer_1,Drive,Transmission Pressure,1735.85
+922,07-05-2022 09:30,Excavator_1,Fuel,Temperature,117.16
+923,07-05-2022 09:40,Excavator_1,Engine,Oil Pressure,52.83
+924,07-05-2022 09:50,Articulated_Truck_1,Engine,Speed,3278.42
+925,07-05-2022 10:00,Backhoe_Loader_1,Misc,System Voltage,72.29
+926,07-05-2022 10:10,Backhoe_Loader_1,Fuel,Fuel Level,3.82
+927,07-05-2022 10:20,Articulated_Truck_1,Fuel,Fuel Level,3.25
+928,07-05-2022 10:30,Dozer_1,Drive,Transmission Pressure,1041.19
+929,07-05-2022 10:40,Dozer_1,Engine,Temperature,366.08
+930,07-05-2022 10:50,Backhoe_Loader_1,Fuel,Water in Fuel,5812.63
+931,07-05-2022 11:00,Backhoe_Loader_1,Fuel,Water in Fuel,5143.45
+932,07-05-2022 11:10,Articulated_Truck_1,Misc,Air Filter Pressure,31.95
+933,07-05-2022 11:20,Dozer_1,Misc,Exhaust Gas Temperature,1140.94
+934,07-05-2022 11:30,Backhoe_Loader_1,Misc,Exhaust Gas Temperature,1657.0
+935,07-05-2022 11:40,Backhoe_Loader_1,Drive,Pedal Sensor,7.92
+936,07-05-2022 11:50,Excavator_1,Misc,Exhaust Gas Temperature,1749.39
+937,07-05-2022 12:00,Articulated_Truck_1,Engine,Speed,6120.14
+938,07-05-2022 12:10,Articulated_Truck_1,Drive,Pedal Sensor,24.79
+939,07-05-2022 12:20,Articulated_Truck_1,Misc,Air Filter Pressure,16.38
+940,07-05-2022 12:30,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,373.45
+941,07-05-2022 12:40,Articulated_Truck_1,Engine,Speed,2382.73
+942,07-05-2022 12:50,Excavator_1,Drive,Brake Control,1.15
+943,07-05-2022 13:00,Dozer_1,Drive,Transmission Pressure,730.35
+944,07-05-2022 13:10,Excavator_1,Drive,Pedal Sensor,10.79
+945,07-05-2022 13:20,Dozer_1,Misc,Air Filter Pressure,36.41
+946,07-05-2022 13:30,Excavator_1,Drive,Transmission Pressure,710.44
+947,07-05-2022 13:40,Articulated_Truck_1,Misc,Air Filter Pressure,28.43
+948,07-05-2022 13:50,Articulated_Truck_1,Drive,Transmission Pressure,1416.17
+949,07-05-2022 14:00,Excavator_1,Fuel,Water in Fuel,701.66
+950,07-05-2022 14:10,Excavator_1,Misc,Exhaust Gas Temperature,1057.52
+951,07-05-2022 14:20,Excavator_1,Engine,Temperature,68.51
+952,07-05-2022 14:30,Excavator_1,Engine,Temperature,596.65
+953,07-05-2022 14:40,Excavator_1,Engine,Temperature,274.21
+954,07-05-2022 14:50,Dozer_1,Fuel,Fuel Pressure,104.9
+955,07-05-2022 15:00,Articulated_Truck_1,Misc,System Voltage,57.58
+956,07-05-2022 15:10,Dozer_1,Fuel,Fuel Level,3.24
+957,07-05-2022 15:20,Excavator_1,Drive,Brake Control,2.24
+958,07-05-2022 15:30,Backhoe_Loader_1,Drive,Transmission Pressure,633.49
+959,07-05-2022 15:40,Dozer_1,Fuel,Fuel Level,2.72
+960,07-05-2022 15:50,Excavator_1,Misc,Hydraulic Pump Rate,219.66
+961,07-05-2022 16:00,Excavator_1,Drive,Brake Control,3.22
+962,07-05-2022 16:10,Backhoe_Loader_1,Drive,Brake Control,1.06
+963,07-05-2022 16:20,Dozer_1,Drive,Brake Control,3.39
+964,07-05-2022 16:30,Backhoe_Loader_1,Fuel,Temperature,518.55
+965,07-05-2022 16:40,Excavator_1,Misc,Exhaust Gas Temperature,614.92
+966,07-05-2022 16:50,Excavator_1,Fuel,Fuel Pressure,73.62
+967,07-05-2022 17:00,Backhoe_Loader_1,Drive,Pedal Sensor,5.74
+968,07-05-2022 17:10,Backhoe_Loader_1,Fuel,Water in Fuel,3188.31
+969,07-05-2022 17:20,Excavator_1,Engine,Oil Pressure,135.52
+970,07-05-2022 17:30,Excavator_1,Fuel,Water in Fuel,6997.04
+971,07-05-2022 17:40,Articulated_Truck_1,Misc,Exhaust Gas Temperature,1100.9
+972,07-05-2022 17:50,Excavator_1,Fuel,Fuel Pressure,197.17
+973,07-05-2022 18:00,Dozer_1,Drive,Brake Control,2.71
+974,07-05-2022 18:10,Dozer_1,Misc,Hydraulic Pump Rate,109.51
+975,07-05-2022 18:20,Articulated_Truck_1,Misc,Exhaust Gas Temperature,392.8
+976,07-05-2022 18:30,Excavator_1,Misc,System Voltage,23.99
+977,07-05-2022 18:40,Dozer_1,Misc,Air Filter Pressure,22.98
+978,07-05-2022 18:50,Dozer_1,Fuel,Temperature,122.78
+979,07-05-2022 19:00,Dozer_1,Engine,Oil Pressure,137.98
+980,07-05-2022 19:10,Backhoe_Loader_1,Drive,Pedal Sensor,1.39
+981,07-05-2022 19:20,Dozer_1,Misc,System Voltage,91.57
+982,07-05-2022 19:30,Articulated_Truck_1,Drive,Brake Control,0.63
+983,07-05-2022 19:40,Dozer_1,Misc,System Voltage,86.86
+984,07-05-2022 19:50,Backhoe_Loader_1,Misc,Air Filter Pressure,22.54
+985,07-05-2022 20:00,Backhoe_Loader_1,Engine,Speed,5208.68
+986,07-05-2022 20:10,Excavator_1,Drive,Transmission Pressure,360.63
+987,07-05-2022 20:20,Excavator_1,Misc,System Voltage,91.06
+988,07-05-2022 20:30,Articulated_Truck_1,Drive,Transmission Pressure,1378.36
+989,07-05-2022 20:40,Dozer_1,Fuel,Water in Fuel,4761.55
+990,07-05-2022 20:50,Backhoe_Loader_1,Engine,Temperature,694.73
+991,07-05-2022 21:00,Excavator_1,Fuel,Fuel Pressure,82.6
+992,07-05-2022 21:10,Excavator_1,Misc,Exhaust Gas Temperature,1348.78
+993,07-05-2022 21:20,Articulated_Truck_1,Fuel,Water in Fuel,6706.19
+994,07-05-2022 21:30,Backhoe_Loader_1,Misc,System Voltage,65.57
+995,07-05-2022 21:40,Articulated_Truck_1,Fuel,Water in Fuel,369.67
+996,07-05-2022 21:50,Excavator_1,Misc,Air Filter Pressure,0.79
+997,07-05-2022 22:00,Articulated_Truck_1,Engine,Temperature,165.3
+998,07-05-2022 22:10,Articulated_Truck_1,Fuel,Water in Fuel,3724.02
+999,07-05-2022 22:20,Dozer_1,Fuel,Fuel Pressure,89.15
+1000,07-05-2022 22:30,Articulated_Truck_1,Engine,Speed,5001.73
